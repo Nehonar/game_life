@@ -1,6 +1,6 @@
 var canvas;
 var ctx;    // context
-var fps = 30;
+var fps = 15;
 
 var canvasX = 1000;  // width
 var canvasY = 800;  // height
@@ -9,8 +9,8 @@ var tileY;
 
 // Game board
 var board;
-var rows = 200;
-var columns = 200;
+var rows = 250;
+var columns = 250;
 
 var black = '#FFFFFF';
 var white = '#000000';
